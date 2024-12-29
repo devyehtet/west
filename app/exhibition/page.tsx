@@ -64,7 +64,7 @@ export default function Exhibition() {
             </div>
             <div className="artwork_desc bg_dropsd p-8 text-right w-full md:w-1/2">
               <h3 className="text-yellow-400 sec_header">
-                Laiza (Mountainous Town)Kachin, October 2023 By Khun Lat
+                Laiza (Mountainous Town)Kachin, October 2023 By Hkun Latt
               </h3>
               <p>
                 Two bombs were dropped from a jet plane near Laiza city and a
