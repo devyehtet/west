@@ -179,14 +179,15 @@ export default function Home() {
         )}
       </AnimatePresence>{" "}
       <div className="flex justify-center mt-8">
-        <a
-          href="/dummy.pdf"
-          download
-          className="bg-yellow-600 text-white px-6 py-3 rounded-lg font-mono text-lg hover:bg-yellow-700 transition-colors"
-        >
-          Download PDF
-        </a>
-      </div>
+  <a
+    href="https://drive.google.com/file/d/1Fe1wqrDikDGsLpMgKUAQhRn5RdWP6YdM/view?usp=sharing"
+    target="_blank"
+    rel="noopener noreferrer"
+    className="bg-yellow-600 text-white px-6 py-3 rounded-lg font-mono text-lg hover:bg-yellow-700 transition-colors"
+  >
+    Download PDF
+  </a>
+</div>
       <Image
         src="/images/image-bomb.png"
         width={1180}
