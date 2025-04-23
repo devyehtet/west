@@ -43,7 +43,11 @@ export default function Exhibition() {
         <section className="snap-center min-h-screen relative flex pb-9 overflow-hidden">
           <div className="bg-wrap max-w-6xl mx-auto relative w-full h-full">
             <Image
+<<<<<<< HEAD
               src="/images/image-01.webp"
+=======
+              src="/images/image-01.jpg"
+>>>>>>> e2ed227 (update file)
               width={1900}
               height={1000}
               alt="background Image"
